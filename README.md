@@ -2,7 +2,7 @@
 Employee Feedback
 
 1. Download the shared .csv
-2. Install python 2.7 (I recommend using anaconda on linux)
+2. Install python 2.7 (I recommend using linux or anaconda on windows)
 3. Install jupyter notebooks, pandas, numpy, seaborn, matplotlib, plotly
 4. Navigate to folder and run `jupyter notebook`
 5. Select the `Employee Feedback` notebook
